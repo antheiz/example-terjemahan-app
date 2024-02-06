@@ -1,6 +1,4 @@
-# Example Translation Application
-
-## Clone Project
+## Clone this Project
 
 ```sh
 git clone https://github.com/antheiz/example-translation-app.git
