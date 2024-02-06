@@ -2,6 +2,7 @@
 
 ```sh
 git clone https://github.com/antheiz/example-translation-app.git
+cd example-translation-app/
 ```
 
 ## How to run this Project
