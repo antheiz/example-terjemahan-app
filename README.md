@@ -10,7 +10,7 @@ cd example-translation-app/
 **Net/HTTP**
 
 ```sh
-cd terjemahan/
+cd translation/
 go run main.go
 ```
 
