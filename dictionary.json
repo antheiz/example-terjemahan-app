@@ -1,0 +1,17 @@
+{
+    
+    "id-moy": {
+        "selamat": "taop",
+        "pagi": "ombre",
+        "siang": "wandem",
+        "sore": "kutaba",
+        "malam": "wansing"
+    },
+    "moy-id": {
+        "taop": "selamat",
+        "ombre": "pagi",
+        "wandem": "siang",
+        "kutaba": "sore",
+        "wansing": "malam"
+    }
+}
