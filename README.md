@@ -7,21 +7,21 @@ cd example-translation-app/
 
 ## How to run this Project
 
-**With Net/HTTP**
+**Net/HTTP**
 
 ```sh
 cd terjemahan/
 go run main.go
 ```
 
-**With Echo**
+**Echo**
 
 ```sh
 cd echo/
 go run main.go
 ```
 
-**With Fiber**
+**Fiber**
 
 ```sh
 cd fiber/
